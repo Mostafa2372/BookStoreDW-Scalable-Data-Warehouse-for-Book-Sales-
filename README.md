@@ -3,8 +3,11 @@ Transformed a book sales database into a data warehouse to improve data analysis
 DB Tables description:‎
 
 •	book: a list of all books available in the store. 
+
 •	book_author: stores the authors for each book, which is a many-to-many ‎relationship. 
+
 •	author: a list of all authors.‎
+
 •	book_language: a list of possible languages of books.
 •	publisher: a list of publishers for books. 
 •	customer: a list of the customers of the Gravity Bookstore. 
