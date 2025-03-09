@@ -1,6 +1,7 @@
 # BookStoreDW-Scalable-Data-Warehouse-for-Book-Sales-
 Transformed a book sales database into a data warehouse to improve data analysis, reporting efficiency, and business insights.
 DB Tables description:‎
+
 •	book: a list of all books available in the store. \‎
 •	book_author: stores the authors for each book, which is a many-to-many ‎relationship. \‎
 •	author: a list of all authors.‎
